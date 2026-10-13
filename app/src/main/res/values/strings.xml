@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">HourMark</string>
+    <string name="toggle_on">ON</string>
+    <string name="toggle_off">OFF</string>
+    <string name="test_chime">Test chime</string>
+    <string name="next_chime">Next chime: %1$02d:%2$02d PM</string>
+    <!-- Example for interpolation; we’ll format in Kotlin -->
+    <string name="it_is_clock">It\'s %1$d o\'clock.</string>
+</resources>
